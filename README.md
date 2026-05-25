@@ -14,6 +14,12 @@ https://www.shopcom.tn/product/ansys-2024-r2/
 
 Product Price : 606,000 $
 
+Payment :
+https://www.shopcom.tn/payment
+
+Website :
+https://www.shopcom.tn
+
 Description :
 
 Ansys 2024 R2 is a pivotal release that operationalizes AI, expands multi-physics system simulation, and deepens cloud-native capabilities. Building on R1's foundations, it focuses on turning innovative AI tools into production-ready solutions, enhancing collaborative workflows, and solving larger, more integrated engineering challenges.
